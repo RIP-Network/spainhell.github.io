@@ -6,9 +6,10 @@
 
 * Apagado Temporalmente
 
-# Web 
+# Enlace y Version
 
 * Link : https://rip-network.github.io/spainhell.github.io/
+* Version 2.5
 
   # Redes Sociales
 
