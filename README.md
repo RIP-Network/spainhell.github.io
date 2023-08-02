@@ -10,4 +10,4 @@
 
 * Link : https://rip-network.github.io/spainhell.github.io/
 
-<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/SMS-Bomber/blob/main/calavera.gif"> </p>
+<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
