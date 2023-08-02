@@ -4,10 +4,20 @@
 
 # Estado 
 
-* Apagado
+* Apagado Temporalmente
 
 # Web 
 
 * Link : https://rip-network.github.io/spainhell.github.io/
+
+  # Redes Sociales
+
+* Github : https://github.com/RIP-Network
+  
+* Youtube : https://www.youtube.com/@RIP-Network
+  
+* Youtube Secundario : https://www.youtube.com/@RIPNetwork
+  
+* IG : https://www.instagram.com/ripnetworkyt/
 
 <p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
