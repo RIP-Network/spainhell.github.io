@@ -30,4 +30,4 @@
   
 * Instagram : https://www.instagram.com/ripnetworkyt/
 
-<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
+<p align="center"> <img width="300" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
