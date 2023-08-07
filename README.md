@@ -22,7 +22,7 @@
 
 * Version de la página web, se haran mejoras de diseño y se implementaran nuevas funciones aqui podras ver la versión actual y proximas versiones.
 
-* Version 3.4
+* Version 4.1
 
   # Redes Sociales
   
