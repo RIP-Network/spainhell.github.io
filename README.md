@@ -4,13 +4,15 @@
 
 * Actualmente cuenta con un total de 112.864 personas registradas y pronto se añadirá una opción para que las personas que visiten la página puedan añadir a más personas únicamente de España enviando una solicitud.
 
-<p align="center"> <img width="300" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
+* Cuando envias una solicitud te respondera un bot que hemos puesto para que atienda las solicitues que se manden a SpainHell, SpainHell no almacena las solicitudes que se envian y queda de forma anonima para los usuarios.
 
 # Estado de la Web
 
 * Aqui podras ver el estado de la web de cuando este activa o apagada.
 
-* Apagado Temporalmente
+* Apagado
+
+* SpainHell actualmente se encuentra operativo y unicamente estara encendido los Sabados y Domingos para evitar desbordamientos y posibles confusiones.
 
 # Enlace y Version
 
@@ -23,11 +25,11 @@
 * Version 3.4
 
   # Redes Sociales
-
-* Github : https://github.com/RIP-Network
   
 * Youtube Primario : https://www.youtube.com/@RIP-Network
   
 * Youtube Secundario : https://www.youtube.com/@RIPNetwork
   
-* Instagram : https://www.instagram.com/ripnetworkyt/
+* Instagram : https://www.instagram.com/ripnetworkyt
+
+* * Github : https://github.com/RIP-Network
