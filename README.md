@@ -20,7 +20,7 @@
 
 * Version de la página web, se haran mejoras de diseño y se implementaran nuevas funciones aqui podras ver la versión actual y proximas versiones.
 
-* Version 3.1
+* Version 3.4
 
   # Redes Sociales
 
