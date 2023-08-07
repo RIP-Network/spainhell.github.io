@@ -32,4 +32,4 @@
   
 * Instagram : https://www.instagram.com/ripnetworkyt
 
-* * Github : https://github.com/RIP-Network
+* Github : https://github.com/RIP-Network
