@@ -6,7 +6,7 @@
 
 <p align="center"> <img width="300" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
 
-# Estado de la Web <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="29px">
+# Estado de la Web
 
 * Aqui podras ver el estado de la web de cuando este activa o apagada.
 
