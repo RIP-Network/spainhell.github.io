@@ -4,6 +4,8 @@
 
 * Actualmente cuenta con un total de 112.864 personas registradas y pronto se añadirá una opción para que las personas que visiten la página puedan añadir a más personas únicamente de España enviando una solicitud.
 
+<p align="center"> <img width="300" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
+
 # Estado de la Web
 
 * Aqui podras ver el estado de la web de cuando este activa o apagada.
@@ -29,5 +31,3 @@
 * Youtube Secundario : https://www.youtube.com/@RIPNetwork
   
 * Instagram : https://www.instagram.com/ripnetworkyt/
-
-<p align="center"> <img width="300" height="300" src="https://github.com/RIP-Network/spainhell.github.io/blob/main/spainhell.jpg"> </p>
