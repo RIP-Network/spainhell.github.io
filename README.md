@@ -6,6 +6,8 @@
 
 * Cuando envias una solicitud te respondera un bot que hemos puesto para que atienda las solicitues que se manden a SpainHell, SpainHell no almacena las solicitudes que se envian y queda de forma anonima para los usuarios.
 
+* La Pagina es totalmente gratuita y no es necesario tener que pagar para que te demos los resultados de la busqueda, si encuentra una pagina similar que le cobra o algo es un scam.
+
 # Estado de la Web
 
 * Aqui podras ver el estado de la web de cuando este activa o apagada.
