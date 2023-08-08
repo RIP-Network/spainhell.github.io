@@ -25,13 +25,3 @@
 * Version de la página web, se haran mejoras de diseño y se implementaran nuevas funciones aqui podras ver la versión actual y proximas versiones.
 
 * Version 4.5
-
-  # Redes Sociales
-  
-* Youtube Primario : https://www.youtube.com/@RIP-Network
-  
-* Youtube Secundario : https://www.youtube.com/@RIPNetwork
-  
-* Instagram : https://www.instagram.com/ripnetworkyt
-
-* Github : https://github.com/RIP-Network
