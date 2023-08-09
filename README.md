@@ -8,6 +8,8 @@
 
 * La Pagina es totalmente gratuita y no es necesario tener que pagar para que te demos los resultados de la busqueda, si encuentra una pagina similar que le cobra o algo es un scam.
 
+* No almacenamos ninguna Informacion por parte de los usuarios que hacen uso de nuestra pagina esto incluye tanto las solicitudes como la actividad realizada dentro de la pagina.
+
 # Estado de la Web
 
 * Aqui podras ver el estado de la web de cuando este activa o apagada.
@@ -24,4 +26,4 @@
 
 * Version de la página web, se haran mejoras de diseño y se implementaran nuevas funciones aqui podras ver la versión actual y proximas versiones.
 
-* Version 4.5
+* Version 5.0
