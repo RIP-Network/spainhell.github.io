@@ -14,7 +14,7 @@
 
 * Aqui podras ver el estado de la web de cuando este activa o apagada.
 
-* Apagado
+* Encendido 
 
 * SpainHell actualmente se encuentra operativo y unicamente estara encendido los Sabados y Domingos para evitar desbordamientos y posibles confusiones.
 
